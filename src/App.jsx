@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div className='min-h-screen bg-[#71b7f4] flex flex-col items-center justify-center'>
+    <div className='min-h-screen  bg-[url("./background.jpg")] flex flex-col items-center justify-center'>
       <div className='container'>
       <CurrencyConverter />
       </div>

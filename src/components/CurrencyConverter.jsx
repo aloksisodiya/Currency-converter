@@ -67,7 +67,7 @@ function CurrencyConverter() {
     }
 
   return (
-    <div className='max-w-xl mx-auto my-10 p-5 bg-[#fefffa] rounded-lg shadow-md'>
+    <div className='max-w-xl mx-auto my-10 p-5 bg-gradient-to-r from-gray-100 to-gray-400 rounded-lg shadow-md'>
         <h2 className='mb-5 text-2xl font-semibold flex justify-center'>
             Currency Converter
         </h2>
